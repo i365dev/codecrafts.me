@@ -1,0 +1,24 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: post
+#+SEQ_TODO: TODO DRAFT DONE
+#+PROPERTY: header-args :eval no
+
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+#+OPTIONS: author:nil
+
+* INBOX                                                              
+All posts in here will be TO DO.
+** DONE Coding Anytime Anywhere                                             :@Code:elixir:
+   CLOSED: [2019-02-08 Fri 11:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: Coding Anytime Anywhere
+:END:
+
+Coding Anytime Anywhere
+<!--more-->
+#+begin_src elixir
+(for x <- [<<65>><>"ny"], y <- ~w(time where), do: x <> y) 
+|> Enum.reduce('Co'++~c(deing)--[101], &([&2|["\s"|&1]])) 
+|> IO.puts
+#+end_src
