@@ -11,6 +11,6 @@ mathjax: false
 contentCopyright: false
 ---
 
-Hello, my name is Dawei Ma, I am a software developer. This is my [resume](http://localhost:1313/resume/en/index.html)
+Hello, my name is Dawei Ma, I am a software developer. This is my [resume](http://codecrafts.me/resume/en/index.html)
 
 
