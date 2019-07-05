@@ -17,10 +17,10 @@
   }
 
   &-title {
-    --border: 3px dotted var(--accent);
+    --border: 2px dotted var(--accent);
     position: relative;
     color: var(--accent);
-    margin: 0 0 15px;
+    margin: 15px 0;
     padding-bottom: 15px;
 
     &:after {
