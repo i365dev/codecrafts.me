@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/i365dev/i365dev.github.io.git
